@@ -1,0 +1,2 @@
+rootProject.name='ip scanner'
+include ':app'
